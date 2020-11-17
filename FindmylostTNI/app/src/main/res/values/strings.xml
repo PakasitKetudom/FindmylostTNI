@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Findmylost TNI</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_lostform">Lostform</string>
+    <string name="title_activity_foundform">Foundform</string>
+    <string name="title_activity_allpost">Allpost</string>
+
+    <string name="titlelost">แจ้งของหาย</string>
+    <string name="titlefound">แจ้งพบของ</string>
+
+
+    <string name="whatlost">สิ่งของที่หายคือ</string>
+    <string name="wherelost">สถานที่ที่คิดว่าทำหาย</string>
+    <string name="daylost">วันที่ทำหาย</string>
+    <string name="description">รายละเอียดเพิ่มเติม</string>
+    <string name="piclost">รูปภาพสิ่งของที่หาย</string>
+    <string name="namelost">ชื่อผู้แจ้ง</string>
+    <string name="tellost">เบอร์ติดต่อ</string>
+    <string name="secret">รหัสลับ</string>
+
+    <string name="whatfound">สิ่งของที่พบคือ</string>
+    <string name="wherefound">สถานที่พบ</string>
+    <string name="dayfound">วันที่พบ</string>
+    <string name="picfound">รูปภาพสิ่งของที่พบ</string>
+    <string name="namefound">ชื่อผู้แจ้ง</string>
+    <string name="telfound">เบอร์ติดต่อ</string>
+
+    <string name="butpic">เลือกภาพ</string>
+
+    <string name="butlost">กระทู้ ของหาย</string>
+    <string name="butfound">กระทู้ พบของ</string>
+    <string name="search">ค้นหา</string>
+    <string name="butsend">ส่ง</string>
+
+
+    <string name="butedit">แก้ไข</string>
+    <string name="edtstatus">สถานะ</string>
+    <string name="id">ID</string>
+    <string name="butdel">ลบประกาศ</string>
+
+    <string name="butgetimage">เลือกรูป</string>
+    <string name="txtstatus"></string>
+
+    <array name="spnstatus">
+        <item>ยังไม่ได้คืน</item>
+        <item>ได้คืนแล้ว</item>
+    </array>
+    <array name="spnFind">
+        <item>ทั้งหมด</item>
+        <item>ยังไม่ได้คืน</item>
+        <item>ได้คืนแล้ว</item>
+    </array>
+
+    <string name="txtAppname">FindMyLost TNI</string>
+    <string name="txtnoice"></string>
+
+    <string name="txtnamelost">กระทู้ของหาย</string>
+    <string name="txtnamefound">กระทู้พบของ</string>
+    <string name="title_activity_contact">Contact</string>
+
+
+</resources>
